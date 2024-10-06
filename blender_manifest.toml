@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "auto_active_camera_switcher"
+version = "1.0.2"
+name = "Auto Active Camera Switcher"
+tagline = "Automatically makes the selected camera the active camera"
+maintainer = "Yamato3D-3dnchu.com <3dnchu.com>"
+type = "add-on"
+tags = ["3D View", "Camera"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/ymt3d/AutoActiveCameraSwitcher-Blender-Addon"
+copyright = ["2010-2024 3dnchu.com",]
