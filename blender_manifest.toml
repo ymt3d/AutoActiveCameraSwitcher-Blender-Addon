@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "auto_active_camera_switcher"
-version = "1.0.2"
+version = "1.1.0"
 name = "Auto Active Camera Switcher"
 tagline = "Automatically makes the selected camera the active camera"
 maintainer = "Yamato3D-3dnchu.com <3dnchu.com>"
